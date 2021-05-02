@@ -1,5 +1,5 @@
 # hello-world
-This is a simple repository for Hello World.
+This is a simple repository for Hello, World.
 
 Hello, World! I am learning github, starting with the basics.
 
